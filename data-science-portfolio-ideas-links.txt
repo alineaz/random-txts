@@ -1,0 +1,49 @@
+Building a data science portfolio (collected from reddit posts)
+
+Portfolio: https://github.com/Erlemar/Erlemar.github.io
+
+Portfolio: https://dhaitz.github.io
+
+you can find inspirations on datascienceportfol.io . It's a community of data scientists uploading their projects (doesn't matter if the code is hosted on Github, Kaggle, etc), but you can present it elegantly on datascienceportfol.io and explore projects done by the community
+
+I did a blog to make a portfolio of some my work and it has paid dividends https://medium.com/@GalarnykMichael, 
+included links to my github: https://github.com/mGalarnyk
+
+by the way, this is how my portfolio looks https://www.datascienceportfol.io/Akash_Maurya
+
+I'd highly suggest doing kernels on kaggle and using that as your portfolio. It worked wonders for me: https://www.kaggle.com/competitions
+
+https://www.reddit.com/r/learnmachinelearning/comments/bck6dw/efficient_ways_to_build_a_data_science_portfolio/
+
+When looking online for a dataset, there are a number at https://registry.opendata.aws/ which are freely available, and easy to use with AWS cloud computing resources. Often they have example code available for you to review too, or at least a description of analysis people have already done.
+
+A place to look for data that I think is good is https://archive.ics.uci.edu/ml/index.php
+
+I use github pages to display some project stuff. Very easy to set up. https://pages.github.com/ Like everyone is saying. Start simple. Show off some data cleaning/feature engineering on some data sets you find interesting. Then gradually add to them or take on different challenges
+
+https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+
+I really enjoyed making making mine and learning about static websites in the process.
+Mine is built using R blogdown and HUGO academic theme and can be seen here christopherholmes.co.uk
+
+I'm working on mine and it is almost finished (just have to upload more content). You can check out this project as an example https://szacho.github.io/simulating-beetle-outbreak-julia/ .
+
+GitHub is great, as is Kaggle. But make sure you use GitHub properly. 
+To me having no GitHub is better than having one but committing everything to master.It's bad practice. 
+Branching and doing pull requests also help you finish an individual task rather than leaving half-finished pieces everywhere.
+If you're just doing this for fun, have at it. But if the whole point is to show a potential employer that you would be a good employee, make you showcase look professional.
+If a full git-flow is too complicated I'd still recommend using the modified GitHub Flow
+
+Everyone already said what I would normally tell you to do. But I'll try to add something different. 
+There are technology activist groups like https://datafordemocracy.org/ or https://www.progcode.org/ that you could join and contribute to open source projects. I'm sure there are others as well. These are the only two I'm familiar with.
+
+Here's a post I found that was super useful when thinking about these things: 
+https://machinelearningmastery.com/build-a-machine-learning-portfolio/
+In fact, I completely recommend the whole blog!
+
+For those interested about my site, I’ve completely built it from scratch and it’s not mobile friendly YET. Link: www.drdatascience.co.uk
+
+If you're not sure of what kind of project to work on, I'd recommend looking around and reading about data categories and use cases for ideas. Data Hunters , for example, has a good amount of resources: https://www.data-hunters.com/
+
+This is another one, which isn't mine, that I like: https://github.com/FisherKK/F1sherKK-MyRoadToAI
+
